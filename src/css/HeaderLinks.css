@@ -1,0 +1,27 @@
+.headerLinks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    color: gray;
+    cursor: pointer;
+}
+
+.headerLinks:hover {
+    color: black;
+}
+
+.headerLinks__icon {
+    object-fit: contain;
+    height: 30px !important;
+}
+
+.headerLinks__icon > img {
+    height: 30px;
+    object-fit: contain;
+}
+
+.headerLinks__title {
+    font-size: 12px;
+    font-weight: 400;
+}
