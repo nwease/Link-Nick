@@ -1,0 +1,28 @@
+.sideBar {
+    flex: 0.3;
+}
+
+.sideBar__top > h2 {
+    font-size: 18px;
+}
+
+.sideBar__top > h4 {
+    color: gray;
+    font-size: 13px;
+    padding-top: 10px;
+}
+
+.sideBar__stats {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.sideBar__stats > p {
+
+}
+
+.sideBar__statsNumber {
+    font-weight: bold;
+    color: #0a66c2;
+}
