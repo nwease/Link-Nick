@@ -10,16 +10,18 @@ function App() {
         <div className='app'>
             <Header />
 
-            <div className='app__left'>
-                <SideBar />
-            </div>
+            <div className='app__body'>
+                <div className='app__left'>
+                    <SideBar />
+                </div>
 
-            <div className='app__center'>
-                <Feed />
-            </div>
+                <div className='app__center'>
+                    <Feed />
+                </div>
 
-            <div className='app__right'>
-                <Widgets />
+                <div className='app__right'>
+                    <Widgets />
+                </div>
             </div>
         </div>
     );

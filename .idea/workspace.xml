@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf113c84-35ab-4d96-9407-fe8279295ff9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Feed.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SideBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Widgets.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Feed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/SideBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/Widgets.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Feed.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Feed.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Feed.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Feed.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/SideBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/SideBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/Widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Widgets.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <updated>1607975558249</updated>
       <workItem from="1607975580548" duration="87000" />
       <workItem from="1607975697273" duration="10650000" />
-      <workItem from="1608120305893" duration="3178000" />
+      <workItem from="1608120305893" duration="5843000" />
     </task>
     <servers />
   </component>

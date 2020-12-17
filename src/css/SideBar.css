@@ -1,5 +1,11 @@
 .sideBar {
     flex: 0.3;
+    background-color: #fff;
+    border-radius: 30px;
+}
+
+.sideBar__top {
+
 }
 
 .sideBar__top > h2 {
@@ -8,8 +14,7 @@
 
 .sideBar__top > h4 {
     color: gray;
-    font-size: 13px;
-    padding-top: 10px;
+    font-size: 12px;
 }
 
 .sideBar__stats {
